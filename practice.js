@@ -8,7 +8,7 @@ var myName = "Rory"
 
 //Create a variable called myAge that is a number data type
 
-//Code here
+var myAge = 27
 
 //////////////////PROBLEM 3////////////////////
 
