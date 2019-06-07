@@ -20,13 +20,13 @@ var lovesCode = true
 
 //Create a variable called greatestFear that is undefined because we fear nothing
 
-var = greatestFear 
+var greatestFear 
 
 //////////////////PROBLEM 5////////////////////
 
 //Create a variable called devMountainGoal that is null because we are just starting out
 
-//Code here
+var devMountainGoal = null
 
 //////////////////PROBLEM 6////////////////////
 
@@ -35,7 +35,9 @@ var = greatestFear
 //greeting should return the string "Hello, "
 //plus the value of the name parameter.
 
-//Code here
+var greeting(name) {
+  return "Hello, (name)"
+}
 
 
 //////////////////PROBLEM 7////////////////////
